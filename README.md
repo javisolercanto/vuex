@@ -1,5 +1,7 @@
 # frontend
 
+https://soshace.com/building-web-apps-with-vue-3-composition-api-typescript-vuex4-0/
+
 ## Project setup
 ```
 npm install
